@@ -1,0 +1,5 @@
+Account Number,Transaction Type,Amount,New Balance,Date
+682278,Deposit,1500.0,2500.0,2025-01-04 01:07:02
+682278,Withdrawal,500.0,2000.0,2025-01-04 01:07:39
+104856,Withdrawal,500.0,2000.5,2025-01-04 01:10:30
+104856,Deposit,1500.0,4000.5,2025-01-05 11:34:55
